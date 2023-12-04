@@ -1,7 +1,7 @@
 ### どうも！ 👋
-nakamochi12と申します。( ｀・∀・´)ﾉﾖﾛｼｸ
+maronと申します。( ｀・∀・´)ﾉﾖﾛｼｸ
 <!--
-**nakamochi12/nakamochi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**marondayo/marondayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
